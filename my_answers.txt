@@ -1,0 +1,2 @@
+Answers for my version control exercices. 
+The focus will be on the revision of the chapter. 

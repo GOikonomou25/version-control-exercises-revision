@@ -1,2 +1,3 @@
-Answers for my version control exercices. 
-The focus will be on the revision of the chapter. 
+## Answers area 
+Here all the answers will be uploaded and updates will occur regularly.
+
